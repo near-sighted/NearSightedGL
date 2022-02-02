@@ -1,7 +1,7 @@
 # NearSighted Q & A Bank Guidelines
 
 These are guidelines for the the maintainers of the NEARSighted Q & A 
-## [Channels](https://hackmd.io/-ytj2xFGTmu__3l9rhRsdA)
+## [Channels](https://github.com/near-sighted/NearSightedGL/blob/main/Channels.md)
 ## [Users](https://hackmd.io/nvMa0vC0QVag6mOK20RmrA)
 ## [Discord](https://hackmd.io/Z2NWK6ZYRjC-hBdpc5qWbA)
 ### i. Conversations
