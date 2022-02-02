@@ -18,8 +18,8 @@ This is where all the data imported from [Discord](https://discord.gg/JVgm7dGf42
 * parent_message_id: This is only available if the current message is a reply to a previous message. It is only there if the user clicked on `reply` before typing in the message.
 * parent_record: This is the parent message's `item_no`.
 * content: This is a combination of both the `user_id` and the text (string) of the message posted. If the message is not a string, it would be empty. If it is a combination of string and other data types, it would contain only the string, with the other data types displayed in the `attachments` cell.
-* attachments: This is a link poin
-* conversation 
+* attachments: This is the non-string file that was attached to the message.
+* conversation: This is a collection of several `contents`, usually over the same issue. These are different from `tags`.
 * code block
 * notes
 * tags
