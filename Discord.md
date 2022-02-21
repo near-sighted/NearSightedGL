@@ -20,10 +20,10 @@ This is where all the data imported from [Discord](https://discord.gg/JVgm7dGf42
 * content: This is a combination of both the `user_id` and the text (string) of the message posted. If the message is not a string, it would be empty. If it is a combination of string and other data types, it would contain only the string, with the other data types displayed in the `attachments` cell.
 * attachments: This is the non-string file that was attached to the message.
 * conversation: This is a collection of several `contents`, usually over the same issue. These are different from `tags`.
-* code block
+* code block: This contains any code included in the message.
 * notes
-* tags
-* embeds 
+* tags: This is a general classification of the general topic a message is about. It is different from a conversation.
+* embeds: This is other media that is included in the message.
 * intention
 * intention_done
 * intention_done_all
